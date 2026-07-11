@@ -1,0 +1,116 @@
+{
+  "Электропитбайк": [
+    {
+      "id": "surron_light_bee_x",
+      "name": "Sur-Ron Light Bee X",
+      "power": "6000 Вт",
+      "range": "90 км",
+      "weight": "50 кг",
+      "price": 180000,
+      "updated": "2025-01-01",
+      "search_query": "Sur-Ron Light Bee X"
+    },
+    {
+      "id": "surron_storm_bee",
+      "name": "Sur-Ron Storm Bee",
+      "power": "22500 Вт",
+      "range": "100 км",
+      "weight": "110 кг",
+      "price": 650000,
+      "updated": "2025-01-01",
+      "search_query": "Sur-Ron Storm Bee"
+    },
+    {
+      "id": "talaria_sting_r",
+      "name": "Talaria Sting R",
+      "power": "8000 Вт",
+      "range": "80 км",
+      "weight": "58 кг",
+      "price": 220000,
+      "updated": "2025-01-01",
+      "search_query": "Talaria Sting R"
+    },
+    {
+      "id": "stark_future_varg",
+      "name": "Stark Future Varg",
+      "power": "80 л.с.",
+      "range": "60 км",
+      "weight": "110 кг",
+      "price": 900000,
+      "updated": "2025-01-01",
+      "search_query": "Stark Future Varg"
+    },
+    {
+      "id": "_luffuhhf",
+      "name": "@luffuhhf",
+      "power": "1вт",
+      "range": "10км",
+      "weight": "999",
+      "price": 10000,
+      "updated": "2026-07-11",
+      "search_query": "@luffuhhf"
+    }
+  ],
+  "Электросамокат": [
+    {
+      "id": "dualtron_thunder2",
+      "name": "Dualtron Thunder 2",
+      "power": "5400 Вт",
+      "range": "120 км",
+      "weight": "52 кг",
+      "price": 250000,
+      "updated": "2025-01-01",
+      "search_query": "Dualtron Thunder 2"
+    },
+    {
+      "id": "dualtron_spider2",
+      "name": "Dualtron Spider 2",
+      "power": "2650 Вт",
+      "range": "80 км",
+      "weight": "27 кг",
+      "price": 120000,
+      "updated": "2025-01-01",
+      "search_query": "Dualtron Spider 2"
+    },
+    {
+      "id": "kugoo_m4_pro",
+      "name": "Kugoo M4 Pro",
+      "power": "500 Вт",
+      "range": "45 км",
+      "weight": "16 кг",
+      "price": 25000,
+      "updated": "2025-01-01",
+      "search_query": "Kugoo M4 Pro"
+    },
+    {
+      "id": "xiaomi_pro4",
+      "name": "Xiaomi Pro 4",
+      "power": "600 Вт",
+      "range": "45 км",
+      "weight": "17 кг",
+      "price": 35000,
+      "updated": "2025-01-01",
+      "search_query": "Xiaomi Pro 4 электросамокат"
+    },
+    {
+      "id": "ninebot_max_g2",
+      "name": "Ninebot Max G2",
+      "power": "900 Вт",
+      "range": "70 км",
+      "weight": "25 кг",
+      "price": 60000,
+      "updated": "2025-01-01",
+      "search_query": "Ninebot Max G2"
+    },
+    {
+      "id": "white_siberia_tank",
+      "name": "White Siberia Tank",
+      "power": "3000 Вт",
+      "range": "80 км",
+      "weight": "36 кг",
+      "price": 90000,
+      "updated": "2025-01-01",
+      "search_query": "White Siberia Tank электросамокат"
+    }
+  ]
+}
